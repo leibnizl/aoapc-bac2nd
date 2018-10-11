@@ -1,0 +1,8 @@
+* 12412 - A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)
+题目链接：[12412 - A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)][https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3843]
+
+不做过多的解释，算是一道练手题，这个题可以很好的锻炼从上到下的程序设计思维。
+需要注意的是：
+- 操作2和3是可以合并的，这个我自己没有考虑，直接看的书，这说明，对于题目，还是需要由一定的分析的
+- 注意代码输出格式，哪些需要打多个回车等
+- 注意对数组申明大小的考虑，前面由于考虑不周（题目说不会超过100人），故而申请了107的空间，结果发生Segment Fault，最主要的原因在于，题目删除了学生，但是在实现上，我仅仅做了标记，而不是真的删除，最后申明较大的数组通过了题目。但是很明显，是有问题的。最好的办法，当然是链表。
