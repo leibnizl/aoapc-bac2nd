@@ -1,5 +1,5 @@
 * 12412 - A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)
-题目链接：[12412 - A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)][https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3843]
+题目链接：[[https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3843][12412 - A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)]]
 
 不做过多的解释，算是一道练手题，这个题可以很好的锻炼从上到下的程序设计思维。
 需要注意的是：
